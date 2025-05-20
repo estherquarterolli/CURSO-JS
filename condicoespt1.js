@@ -1,3 +1,6 @@
 console.log('Funcionou corretamente');
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+
+var vel= 50;
+
+console.log(`Dirija com cuidado! A velocidade máxima é ${vel} km/h`)
+console.log('Funcionou corretamente');
